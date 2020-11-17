@@ -1,0 +1,8 @@
+build/
+dist
+packrd
+*-packr.go
+node_modules
+.DS_Store
+apps/
+.idea
